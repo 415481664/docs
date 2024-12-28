@@ -1,0 +1,7 @@
+- **学习导航**
+  - [**java基础**](md/jvm/JVM性能调优-JVM内存整理及GC回收-14.md)
+  - [**哔哩哔哩**](https://www.bilibili.com/)
+  - [**GitHub中文社区**)](https://www.githubs.cn/post/what-is-github)
+- **镜像仓库**
+  - [**Docker官方镜像中心**](https://hub.docker.com/)
+  - [**Maven官方镜像仓库**](https://mvnrepository.com/)
