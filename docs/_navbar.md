@@ -5,3 +5,6 @@
 - **镜像仓库**
   - [**Docker官方镜像中心**](https://hub.docker.com/)
   - [**Maven官方镜像仓库**](https://mvnrepository.com/)
+- **其他**
+  - [**生活**](md/other/live/index.md)
+  - [**Maven官方镜像仓库**](https://mvnrepository.com/)
